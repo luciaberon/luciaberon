@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Lucía Berón👋
 
-<!--
-**luciaberon/luciaberon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React](https://img.shields.io/badge/React-Beginner-lightblue)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
+![NodeJs](https://img.shields.io/badge/Nodejs-Beginner-lightgreen)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contacto
+
+- GitHub: [github.com/luciaberon][github]
+- LinkedIn: [linkedin.com/lucia-beron][linkedin]
+- Site: [luciaberon.github.io/portafolio][site]
+- E-mail: luciaberonwaingart@hotmail.com
+
