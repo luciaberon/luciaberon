@@ -10,8 +10,8 @@
 
 ### 📬 Contacto
 
-- GitHub: [github.com/luciaberon][github]
-- LinkedIn: [linkedin.com/lucia-beron][linkedin]
-- Site: [luciaberon.github.io/portafolio][site]
+- GitHub: github.com/luciaberon
+- LinkedIn: linkedin.com/lucia-beron
+- Site: luciaberon.github.io/portafolio
 - E-mail: luciaberonwaingart@hotmail.com
 
