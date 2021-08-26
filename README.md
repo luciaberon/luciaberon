@@ -7,7 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
 ![NodeJs](https://img.shields.io/badge/Nodejs-Beginner-lightgreen)
 
-
 ### 📬 Contacto
 
 - GitHub: [github.com/luciaberon](github.com/luciaberon)
@@ -15,5 +14,5 @@
 - Site: [luciaberon.github.io/portafolio](luciaberon.github.io/portafolio)
 - E-mail: luciaberonwaingart@hotmail.com
 
-![Lucía Beron's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaberon&show_icons=true&theme=dracula)
+![Lucía Beron's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaberon&show_icons=true&theme=&bg_color=00000000)
 
