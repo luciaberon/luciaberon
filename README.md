@@ -14,5 +14,4 @@
 - Site: [luciaberon.github.io/portafolio](luciaberon.github.io/portafolio)
 - E-mail: luciaberonwaingart@hotmail.com
 
-![Lucía Beron's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaberon&show_icons=true&theme=&bg_color=00000000)
-
+![Lucía Beron's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaberon&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
