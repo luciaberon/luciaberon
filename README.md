@@ -9,9 +9,9 @@
 
 ### 📬 Contacto
 
-- GitHub: [github.com/luciaberon](github.com/luciaberon)
-- LinkedIn: [linkedin.com/lucia-beron](linkedin.com/lucia-beron)
-- Site: [luciaberon.github.io/portafolio](luciaberon.github.io/portafolio)
+- GitHub: [github.com/luciaberon](https://github.com/luciaberon)
+- LinkedIn: [linkedin.com/lucia-beron](https://linkedin.com/lucia-beron)
+- Site: [luciaberon.github.io/portafolio](https://luciaberon.github.io/portafolio)
 - E-mail: luciaberonwaingart@hotmail.com
 
 ![Lucía Beron's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaberon&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
